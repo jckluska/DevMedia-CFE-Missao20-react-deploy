@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/devmedia_programadorfrontend_missao20/static/css/main.6bf4ef40.css",
+    "main.js": "/devmedia_programadorfrontend_missao20/static/js/main.c1fd17b2.js",
+    "static/media/banner.png": "/devmedia_programadorfrontend_missao20/static/media/banner.24792d13f8ae0f0c8e94.png",
+    "static/media/dribble.png": "/devmedia_programadorfrontend_missao20/static/media/dribble.5bd157081aafd8bf91df.png",
+    "static/media/moon.png": "/devmedia_programadorfrontend_missao20/static/media/moon.aa0519968d404fb6f25a.png",
+    "static/media/behance.png": "/devmedia_programadorfrontend_missao20/static/media/behance.17520b5be0e2ef198d5a.png",
+    "static/media/sun.png": "/devmedia_programadorfrontend_missao20/static/media/sun.6d48da504f4816188c8d.png",
+    "static/media/facebook.png": "/devmedia_programadorfrontend_missao20/static/media/facebook.01a470d813915c298403.png",
+    "static/media/twitter.png": "/devmedia_programadorfrontend_missao20/static/media/twitter.28b4dce41e4e33858919.png",
+    "static/media/linkedin.png": "/devmedia_programadorfrontend_missao20/static/media/linkedin.6892b3ae328c7a1e055f.png",
+    "index.html": "/devmedia_programadorfrontend_missao20/index.html",
+    "main.6bf4ef40.css.map": "/devmedia_programadorfrontend_missao20/static/css/main.6bf4ef40.css.map",
+    "main.c1fd17b2.js.map": "/devmedia_programadorfrontend_missao20/static/js/main.c1fd17b2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6bf4ef40.css",
+    "static/js/main.c1fd17b2.js"
+  ]
+}
